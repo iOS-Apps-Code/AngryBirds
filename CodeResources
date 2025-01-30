@@ -40,9 +40,17 @@
 		<data>
 		kuthjCemH7aRTgPfzAohwqzLsUo=
 		</data>
+		<key>Icon-72.png</key>
+		<data>
+		yyNPK/+JVMUmmaQoLLGV4TnbeJY=
+		</data>
 		<key>Icon.png</key>
 		<data>
-		NBj9Sir3LRKoedN3ZN8MpSTrlPs=
+		LrH0iq2nbP4Sntww2TRqYsl4poU=
+		</data>
+		<key>Icon@2x.png</key>
+		<data>
+		GmZOCymD+sUx91DIBfj5iNaN0wU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -806,11 +814,11 @@
 		</data>
 		<key>data_iphone/fonts/FONT_BASIC.dat</key>
 		<data>
-		bCKmTqameDR+l6K6C1Lm3BDGctA=
+		7gP1SnoZCJFh5yziufUjzqqxirs=
 		</data>
 		<key>data_iphone/fonts/FONT_BASIC.pvr</key>
 		<data>
-		yBIswhMF1yFFexRnk1WTBlTmGUg=
+		u2RHJRGKY2zXLG3ulXf4PujEsyk=
 		</data>
 		<key>data_iphone/fonts/FONT_BIG_NUMBERS.dat</key>
 		<data>
@@ -870,7 +878,7 @@
 		</data>
 		<key>data_iphone/images/CUTSCENES_ELEMENTS_1.dat</key>
 		<data>
-		y92KyNWh0ySSRXo2/F2RlkQdiE4=
+		0GYW8bq7k59ga2TrtKXNUuWknDI=
 		</data>
 		<key>data_iphone/images/CUTSCENES_ELEMENTS_1.pvr</key>
 		<data>
@@ -902,11 +910,11 @@
 		</data>
 		<key>data_iphone/images/INGAME_BIRDS_2.dat</key>
 		<data>
-		EDkCvbIVfUuXZfwMrMGGoCMENRE=
+		oaFPyxc40T15sBkxREUYiewb0mM=
 		</data>
 		<key>data_iphone/images/INGAME_BIRDS_2.png</key>
 		<data>
-		EsB38nkarR9sk0syTZBD4AhcJo8=
+		4dzF2ejCyLmpqpVxAT6M1Nef7Uk=
 		</data>
 		<key>data_iphone/images/INGAME_BLOCKS_1.dat</key>
 		<data>
@@ -1144,6 +1152,10 @@
 		<data>
 		k9ZL/1OAGvoG4IieJjZn0yAIEaM=
 		</data>
+		<key>data_iphone/levels/goldeneggs1/LevelGE_10.lua</key>
+		<data>
+		G54kkT5Vnac8ENDHumSSclbwEbo=
+		</data>
 		<key>data_iphone/levels/goldeneggs1/LevelGE_2.lua</key>
 		<data>
 		Oe4c7Ogp34oZz2aqmgRiBo3VJ7M=
@@ -1259,6 +1271,66 @@
 		<key>data_iphone/levels/pack1/Level9.lua</key>
 		<data>
 		kneK012u+fBrHozoAmgmW+VZJJs=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_442.lua</key>
+		<data>
+		uun4/6LWipMtD7s3G5p4ih0xDAA=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_443.lua</key>
+		<data>
+		yRfKpCvscPktiUv2xAvsDAH3rWM=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_444.lua</key>
+		<data>
+		qD32qpP5dTwFnHsFzg0urskN9WY=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_445.lua</key>
+		<data>
+		GI+JHboo6A3aUOHUfod9iU/T+SM=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_448.lua</key>
+		<data>
+		vtSXl6vloaQAVFHEJTmaAvjo8XM=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_449.lua</key>
+		<data>
+		EoqtQ1kcNEDC7Tj+C2BBFpLqe30=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_451.lua</key>
+		<data>
+		v1rGxjjuYCSHOPzRTICEof7XZGE=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_452.lua</key>
+		<data>
+		HHTp7H3rr0ThZhbm03z/l/dMk2A=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_453.lua</key>
+		<data>
+		5NBKr+0/vhbt9ClsBoEsWeLajTc=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_454.lua</key>
+		<data>
+		M6pfjvJxLD649bBY2tUX+P1NSjo=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_455.lua</key>
+		<data>
+		r2wY8SV3fF70KTmShatEY+50dA0=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_457.lua</key>
+		<data>
+		cIbNKxtxj18+iQ/MOXhPkDd3a2k=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_458.lua</key>
+		<data>
+		YdG2TjtqKfruULGTcJ6EnaZMjWY=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_459.lua</key>
+		<data>
+		wel/W3UaaUe0lmImtTyGmsiClz8=
+		</data>
+		<key>data_iphone/levels/pack10/LevelP4_462.lua</key>
+		<data>
+		iW1TJuzvYfe/zVLUwHdr/LtVmJo=
 		</data>
 		<key>data_iphone/levels/pack2/Level20.lua</key>
 		<data>
@@ -1406,7 +1478,7 @@
 		</data>
 		<key>data_iphone/levels/pack3/Level81.lua</key>
 		<data>
-		10PMarBzzpyLHcD/z6pU4Ueb6mk=
+		NQJIvUTfytoaz0YctstmhMBPzkY=
 		</data>
 		<key>data_iphone/levels/pack3/Level82.lua</key>
 		<data>
@@ -1838,7 +1910,7 @@
 		</data>
 		<key>data_iphone/localization/TEXTS_BASIC.dat</key>
 		<data>
-		eSx4dFFKv7lis++c8S39GiGDKi4=
+		XQNpaYnhvUm1R3+FpzpJ2htJ9uc=
 		</data>
 		<key>data_iphone/scripts/animations.lua</key>
 		<data>
@@ -1846,19 +1918,19 @@
 		</data>
 		<key>data_iphone/scripts/blocks.lua</key>
 		<data>
-		vpMiY/ogCvrmAGhVd3f/hg3nWYQ=
+		GU1gHQqS3zXUh+akgUJ6BAk+lGM=
 		</data>
 		<key>data_iphone/scripts/gamelogic.lua</key>
 		<data>
-		7dK883pguB8/Zy8apCGaNcI8AS4=
+		hKun0DUNccQafT92pI0H0Eld+2M=
 		</data>
 		<key>data_iphone/scripts/iphone/achievements.lua</key>
 		<data>
-		a1ChlUSayqaK4UOR6cRCubtaV6Q=
+		WHx5Dlk3r+yQ2sb4Pz5F/EuT4Ls=
 		</data>
 		<key>data_iphone/scripts/iphone/leaderboards.lua</key>
 		<data>
-		CZLJ87Sldvfi9f1BkT5WxmB9/Iw=
+		Z2vuHwxZED6IC/WR6RERWlmjosE=
 		</data>
 		<key>data_iphone/scripts/particles.lua</key>
 		<data>
@@ -1866,7 +1938,7 @@
 		</data>
 		<key>data_iphone/scripts/starLimits.lua</key>
 		<data>
-		RnTOWEpOXRCKsHbaOqJqRg66270=
+		JGGPJR9SRrxJqtORub+qOZ8lPUs=
 		</data>
 	</dict>
 	<key>rules</key>
