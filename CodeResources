@@ -16,30 +16,6 @@
 		<data>
 		O10PJ3vPkAdypNUGk3PgmTOlWLg=
 		</data>
-		<key>FBConnect.bundle/images/login.png</key>
-		<data>
-		2gK2bZhND8XZl3RLxysGXl1nA/E=
-		</data>
-		<key>FBConnect.bundle/images/login2.png</key>
-		<data>
-		GffVOyyM4YYuTm3Ad76zGxnE/rk=
-		</data>
-		<key>FBConnect.bundle/images/login2_down.png</key>
-		<data>
-		VQ8I75oqfQYVVml0Sr4U38NLbe8=
-		</data>
-		<key>FBConnect.bundle/images/login_down.png</key>
-		<data>
-		INNd5JcO1lHB+/IP1QsBM6Mvx8c=
-		</data>
-		<key>FBConnect.bundle/images/logout.png</key>
-		<data>
-		LtZxDmXQCJKFZphmolElc8Qelf8=
-		</data>
-		<key>FBConnect.bundle/images/logout_down.png</key>
-		<data>
-		kuthjCemH7aRTgPfzAohwqzLsUo=
-		</data>
 		<key>Icon-72.png</key>
 		<data>
 		yyNPK/+JVMUmmaQoLLGV4TnbeJY=
@@ -384,10 +360,6 @@
 		<data>
 		8hWVy1TowUjABE+yI73RGo+FYsY=
 		</data>
-		<key>data_iphone/audio/sfx/halloween_laugh.wav</key>
-		<data>
-		kIpeHo96v983KAvvHWB5OoTTfqc=
-		</data>
 		<key>data_iphone/audio/sfx/ice light collision a1.wav</key>
 		<data>
 		Ky7bqmSHaAH7fHXAz/6otvDqYEc=
@@ -483,6 +455,18 @@
 		<key>data_iphone/audio/sfx/menu select.wav</key>
 		<data>
 		oav56miSLDVG8btTyfGbLWG723s=
+		</data>
+		<key>data_iphone/audio/sfx/mighty_eagle_bounce.mp3</key>
+		<data>
+		ge8LpiBvGg5lKf+CIC+hFzTg/Bs=
+		</data>
+		<key>data_iphone/audio/sfx/mighty_eagle_fly.mp3</key>
+		<data>
+		Ts1QhV8Zkd9gAS7pB/4ka+0BZ+Q=
+		</data>
+		<key>data_iphone/audio/sfx/mightyeagle.wav</key>
+		<data>
+		jPKV207ydsnR/3qoLEXNiigONYg=
 		</data>
 		<key>data_iphone/audio/sfx/piano-c.wav</key>
 		<data>
@@ -656,10 +640,6 @@
 		<data>
 		VnxxrHbeRCN8Kg7Fe0oZKOxnjXc=
 		</data>
-		<key>data_iphone/audio/sfx/pumpkin_smash.wav</key>
-		<data>
-		CDba8wzqETR+PaZNB+AMpxcs6/Q=
-		</data>
 		<key>data_iphone/audio/sfx/redbird_yell01.wav</key>
 		<data>
 		DuIz5lxpmznBY5AsCZPwr3DgGs0=
@@ -719,6 +699,14 @@
 		<key>data_iphone/audio/sfx/rock rolling.wav</key>
 		<data>
 		lPBUWweePi7qKZzm9Z6pYLgA/wg=
+		</data>
+		<key>data_iphone/audio/sfx/sardine_can_physics_a2.mp3</key>
+		<data>
+		q+UDidsyIvA270kUI4rQn+JvYLM=
+		</data>
+		<key>data_iphone/audio/sfx/sardine_can_shot.mp3</key>
+		<data>
+		3NmgMnxCx7MGbJnVrHa2t5KRFe0=
 		</data>
 		<key>data_iphone/audio/sfx/slingshot streched.wav</key>
 		<data>
@@ -804,411 +792,439 @@
 		<data>
 		7U9/K6z0LjDKyxEgafGHM3LmiDc=
 		</data>
-		<key>data_iphone/fonts/FONT_BASIC.dat</key>
+		<key>data_iphone/fonts/480x320/FONT_BASIC.dat</key>
 		<data>
-		0AUj9jGhFL+Q3MS29iZBXMsVp0U=
+		4kWFR5IWHNPaQgOj6MlfQ7BA0bE=
 		</data>
-		<key>data_iphone/fonts/FONT_BASIC.pvr</key>
+		<key>data_iphone/fonts/480x320/FONT_BASIC.pvr</key>
 		<data>
-		YbgQQZggTFJFY49vtva96kVmQFo=
+		ZNQ0JJffNcr+NgHFvXpf9GgmxAI=
 		</data>
-		<key>data_iphone/fonts/FONT_BIG_NUMBERS.dat</key>
+		<key>data_iphone/fonts/480x320/FONT_BIG_NUMBERS.dat</key>
 		<data>
-		gOO7o/pUxVlhP0sLGsfVg7wTrRQ=
+		VsheAHxkY7dDKnniOIuxjqyN1r0=
 		</data>
-		<key>data_iphone/fonts/FONT_BIG_NUMBERS.pvr</key>
+		<key>data_iphone/fonts/480x320/FONT_BIG_NUMBERS.pvr</key>
 		<data>
 		wVGMy+aVpXQFu6EVs6ViDHP2Dwc=
 		</data>
-		<key>data_iphone/fonts/FONT_GAMECENTER_BASIC.dat</key>
+		<key>data_iphone/fonts/480x320/FONT_GAMECENTER_BASIC.dat</key>
 		<data>
-		EPM2F84YvYr+2Bmqk+r184oJt2Q=
+		nsStTuaALxLRrX4BVKFjdMmm/3M=
 		</data>
-		<key>data_iphone/fonts/FONT_GAMECENTER_BASIC.pvr</key>
+		<key>data_iphone/fonts/480x320/FONT_GAMECENTER_BASIC.pvr</key>
 		<data>
 		Yhd1zueB8R7ApBe7nf8zfEMwDfk=
 		</data>
-		<key>data_iphone/fonts/FONT_GAMECENTER_NUMBERS.dat</key>
+		<key>data_iphone/fonts/480x320/FONT_GAMECENTER_NUMBERS.dat</key>
 		<data>
-		xWBl1Qfbzkyp9doije+pJMTuVvs=
+		T4dovJo6na8C42YQqKQMUM0kcrM=
 		</data>
-		<key>data_iphone/fonts/FONT_GAMECENTER_NUMBERS.pvr</key>
+		<key>data_iphone/fonts/480x320/FONT_GAMECENTER_NUMBERS.pvr</key>
 		<data>
 		2GJflpVssHgQjCUhsVjk/K1wjj0=
 		</data>
-		<key>data_iphone/fonts/FONT_LS_SMALL.dat</key>
+		<key>data_iphone/fonts/480x320/FONT_LS_SMALL.dat</key>
 		<data>
-		HzZfOXtz4HfFJfyVuMQWNKiaY1Y=
+		uAB/zbE2FkkHyN4ltTzRY0NCwnM=
 		</data>
-		<key>data_iphone/fonts/FONT_LS_SMALL.pvr</key>
+		<key>data_iphone/fonts/480x320/FONT_LS_SMALL.pvr</key>
 		<data>
 		P5F/Mq+WYa9lAAlIV6Lv5br6Oi0=
 		</data>
-		<key>data_iphone/fonts/FONT_MENU.dat</key>
+		<key>data_iphone/fonts/480x320/FONT_MENU.dat</key>
 		<data>
-		idbL7spSKMWJi3ZdZPZ/0VcCXbI=
+		xGx8PzTw+XSqIIhmOlIFnGjRdZw=
 		</data>
-		<key>data_iphone/fonts/FONT_MENU.pvr</key>
+		<key>data_iphone/fonts/480x320/FONT_MENU.pvr</key>
 		<data>
 		W9pfz0o7tGTEw+Au6gLcdQuxStQ=
 		</data>
-		<key>data_iphone/fonts/FONT_MENU_S60.pvr</key>
+		<key>data_iphone/fonts/480x320/FONT_MENU_S60.pvr</key>
 		<data>
 		mzwz2bq+D089WBT9naRnRJMI29o=
 		</data>
-		<key>data_iphone/fonts/FONT_SCORE.dat</key>
+		<key>data_iphone/fonts/480x320/FONT_SCORE.dat</key>
 		<data>
-		RLIPdBbZP7R1OMmi//m5Y9MKmnI=
+		o9Fzh22tiMmE0LDmEWWQ4+tLLCM=
 		</data>
-		<key>data_iphone/fonts/FONT_SCORE.pvr</key>
+		<key>data_iphone/fonts/480x320/FONT_SCORE.pvr</key>
 		<data>
 		ZpOMeAxxefjsShvxrHG9FujRz0M=
 		</data>
-		<key>data_iphone/images/ACHIEVEMENTS_SHEET_1.dat</key>
+		<key>data_iphone/images/480x320/ACHIEVEMENTS_SHEET_1.dat</key>
 		<data>
-		QJ1lUZ0M5JzDgiR7+QM4L6Na4mQ=
+		Ej+j4soNEclIOtlaT9y0XQpstsg=
 		</data>
-		<key>data_iphone/images/ACHIEVEMENTS_SHEET_1.pvr</key>
+		<key>data_iphone/images/480x320/ACHIEVEMENTS_SHEET_1.pvr</key>
 		<data>
-		LuxLBCG9itBpSGqQ4PQ1l5390jE=
+		3TuoEOSXGb7rJnuqyg0OrEFr/gk=
 		</data>
-		<key>data_iphone/images/BACKGROUNDS_GE_1.dat</key>
+		<key>data_iphone/images/480x320/BACKGROUNDS_GE_1.dat</key>
 		<data>
 		JqYWQMMtCPqSlgS74kD1ZFZ2qMY=
 		</data>
-		<key>data_iphone/images/BACKGROUNDS_GE_1.pvr</key>
+		<key>data_iphone/images/480x320/BACKGROUNDS_GE_1.pvr</key>
 		<data>
 		cka5amEmEq0sQPEcCL07sWrc0GA=
 		</data>
-		<key>data_iphone/images/BACKGROUNDS_LS_1.dat</key>
+		<key>data_iphone/images/480x320/BACKGROUNDS_LS_1.dat</key>
 		<data>
 		PNtPPVQxVpTI+aJba1DhuX8Q4w0=
 		</data>
-		<key>data_iphone/images/BACKGROUNDS_LS_1.png</key>
+		<key>data_iphone/images/480x320/BACKGROUNDS_LS_1.png</key>
 		<data>
 		2zuuXLdtOfX77aVjqI0z+pekmaQ=
 		</data>
-		<key>data_iphone/images/BACKGROUNDS_MAIN_1.dat</key>
+		<key>data_iphone/images/480x320/BACKGROUNDS_MAIN_1.dat</key>
 		<data>
 		/iUhGtivlc/xA5VjtfLta++WB3E=
 		</data>
-		<key>data_iphone/images/BACKGROUNDS_MAIN_1.pvr</key>
+		<key>data_iphone/images/480x320/BACKGROUNDS_MAIN_1.pvr</key>
 		<data>
-		SyJlsSpUBpVg7vR5gAO/XcWjeHo=
+		C4Z4lIbB7QptNYvrNBjz3yYXOgU=
 		</data>
-		<key>data_iphone/images/BUTTONS_GAMECENTER_1.dat</key>
+		<key>data_iphone/images/480x320/BUTTONS_SHEET_1.dat</key>
 		<data>
-		9Nde6dghevQnz61dyMIz3kZXOhI=
+		UajWW9pwlYFBAXOLV6GsKYt0XII=
 		</data>
-		<key>data_iphone/images/BUTTONS_GAMECENTER_1.pvr</key>
+		<key>data_iphone/images/480x320/BUTTONS_SHEET_1.pvr</key>
 		<data>
-		Kd0VNFzIYUO0lVAATzRCf2N6eUc=
+		oVkLcGrCbwPamwxJwoTYmDG3YLc=
 		</data>
-		<key>data_iphone/images/BUTTONS_SHEET_1.dat</key>
+		<key>data_iphone/images/480x320/CUTSCENES_BACKGROUNDS_1.dat</key>
 		<data>
-		0x5H215zCwg3PLpLeantk0E8eHA=
+		b0AwIaVqB1bDqbAjQE/Tx95lbJU=
 		</data>
-		<key>data_iphone/images/BUTTONS_SHEET_1.pvr</key>
+		<key>data_iphone/images/480x320/CUTSCENES_BACKGROUNDS_1.pvr</key>
 		<data>
-		TpXpwgklMHOIYIBKGv26gLOrJ10=
+		2GQEA7JMu2dh4rSHneK0qAOr2pI=
 		</data>
-		<key>data_iphone/images/CUTSCENES_BACKGROUNDS_1.dat</key>
+		<key>data_iphone/images/480x320/CUTSCENES_BACKGROUNDS_2.dat</key>
 		<data>
-		tNGs1h2w0XmQ/PJ49ZotE+AV6yA=
+		1rtlrZ6NsO5p47vRE21rvvDvzrE=
 		</data>
-		<key>data_iphone/images/CUTSCENES_BACKGROUNDS_1.pvr</key>
+		<key>data_iphone/images/480x320/CUTSCENES_BACKGROUNDS_2.pvr</key>
 		<data>
-		cZ9bhq88g83yM2H3+VX6bGVjaJI=
+		GJZHAAwImFdY2wKGurCgeXD5jWk=
 		</data>
-		<key>data_iphone/images/CUTSCENES_BACKGROUNDS_2.dat</key>
+		<key>data_iphone/images/480x320/CUTSCENES_BACKGROUNDS_3.dat</key>
 		<data>
-		QiaIyF2S9aTYoIRgFQOf15FZbNM=
+		ab2CTs3scbWLjhZv6frrfPeF80k=
 		</data>
-		<key>data_iphone/images/CUTSCENES_BACKGROUNDS_2.pvr</key>
+		<key>data_iphone/images/480x320/CUTSCENES_BACKGROUNDS_3.pvr</key>
 		<data>
-		GKLixrjxefzTwsqT3/Ak2OoQdgY=
+		PeuI4WiTvmH1bsTJZDg0PQLB6jE=
 		</data>
-		<key>data_iphone/images/CUTSCENES_ELEMENTS_1.dat</key>
+		<key>data_iphone/images/480x320/CUTSCENES_ELEMENTS_1.dat</key>
 		<data>
-		nXHvy8wdW/32MTLRw+VAjbMN6is=
+		zfTlmfjloRfBO+fp0YxWbXKxrl0=
 		</data>
-		<key>data_iphone/images/CUTSCENES_ELEMENTS_1.pvr</key>
+		<key>data_iphone/images/480x320/CUTSCENES_ELEMENTS_1.pvr</key>
 		<data>
-		7FwK1GWlf0WMw/3GGM2OVJYENFc=
+		lkmbGQRiZzccz4ENHRQutiOoLC0=
 		</data>
-		<key>data_iphone/images/GOLDEN_EGGS_SHEET_1.dat</key>
+		<key>data_iphone/images/480x320/CUTSCENES_composprites.dat</key>
 		<data>
-		kbfQmkG2cZqqeDVSNXLizmJJEcI=
+		bdyxw4DTBx0qhd2YDd+7sDPuQFc=
 		</data>
-		<key>data_iphone/images/GOLDEN_EGGS_SHEET_1.pvr</key>
+		<key>data_iphone/images/480x320/GOLDEN_EGGS_SHEET_1.dat</key>
 		<data>
-		gM2ujYe57b7Urm5JNaqDKKoCSUY=
+		j6MYs6xhU1eSb0aIL3pFAFJcpsw=
 		</data>
-		<key>data_iphone/images/GOLDEN_EGGS_SHEET_2.dat</key>
+		<key>data_iphone/images/480x320/GOLDEN_EGGS_SHEET_1.pvr</key>
+		<data>
+		9tXryVjZrN9LJbJf8bEOpmVLEl8=
+		</data>
+		<key>data_iphone/images/480x320/GOLDEN_EGGS_SHEET_2.dat</key>
 		<data>
 		0KZ25kjULpROudN69RaUPA252wc=
 		</data>
-		<key>data_iphone/images/GOLDEN_EGGS_SHEET_2.png</key>
+		<key>data_iphone/images/480x320/GOLDEN_EGGS_SHEET_2.png</key>
 		<data>
 		KTveCbHl0IpriaCwak1DcMpH9BE=
 		</data>
-		<key>data_iphone/images/GOLDEN_EGGS_SHEET_3.dat</key>
+		<key>data_iphone/images/480x320/GOLDEN_EGGS_SHEET_3.dat</key>
 		<data>
 		uv+pXdcNNng/OdXuYeRLkCCN5OQ=
 		</data>
-		<key>data_iphone/images/GOLDEN_EGGS_SHEET_3.png</key>
+		<key>data_iphone/images/480x320/GOLDEN_EGGS_SHEET_3.png</key>
 		<data>
 		VO8bn5stK25TEt85qZzjx1szejI=
 		</data>
-		<key>data_iphone/images/INGAME_BIRDS_1.dat</key>
+		<key>data_iphone/images/480x320/INGAME_BIRDS_1.dat</key>
 		<data>
-		Czc/YSrTTOfHEhTjavdT7/NosNc=
+		wGon8Qs1GlS/i5zmFDwamcM9sb8=
 		</data>
-		<key>data_iphone/images/INGAME_BIRDS_1.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_BIRDS_1.pvr</key>
 		<data>
-		9cyptckX0STjRzjUKGMjFbO3xLk=
+		V08TmA33dh/kF48L0UpMo09teeo=
 		</data>
-		<key>data_iphone/images/INGAME_BLOCKS_1.dat</key>
+		<key>data_iphone/images/480x320/INGAME_BIRDS_2.dat</key>
 		<data>
-		P3ZE4W+Hc3cw+H5/qz/hmTi16DM=
+		jCa6H0FsX7t84ZVM8o1/ivbXIp0=
 		</data>
-		<key>data_iphone/images/INGAME_BLOCKS_1.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_BIRDS_2.pvr</key>
 		<data>
-		0XBRBD3aKfn/GPwo7+ZR20jkYcU=
+		cK1xxH4EmolSddvgzad12GoChpg=
 		</data>
-		<key>data_iphone/images/INGAME_GROUNDS_1.dat</key>
+		<key>data_iphone/images/480x320/INGAME_BLOCKS_1.dat</key>
+		<data>
+		a0f2TjI6CImbzJvXV4maGTZ+Tok=
+		</data>
+		<key>data_iphone/images/480x320/INGAME_BLOCKS_1.pvr</key>
+		<data>
+		VexbeqFVM4tW1Q0CngLeNXMzIgM=
+		</data>
+		<key>data_iphone/images/480x320/INGAME_GROUNDS_1.dat</key>
 		<data>
 		2gph7OJUs7+gInpXoookAfw/p+o=
 		</data>
-		<key>data_iphone/images/INGAME_GROUNDS_1.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_GROUNDS_1.pvr</key>
 		<data>
 		xx28RDfDcQLNC2cTcBFSOC/1EFc=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_1.dat</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_1.dat</key>
 		<data>
 		gHN47oH7vW5H+s+LWmRl16oV58E=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_1.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_1.pvr</key>
 		<data>
 		Hu+KNNH/pLD4JfemYm3nBkrkc3o=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_2.dat</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_2.dat</key>
 		<data>
 		zaj/eYEZhmksByXs7F96KYOK2e4=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_2.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_2.pvr</key>
 		<data>
 		vG4d0y6KFbvyzBhsmvD6Aq05+eA=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_3.dat</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_3.dat</key>
 		<data>
 		r4oUDWKCRuKkHFzS04DSkKqggSA=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_3.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_3.pvr</key>
 		<data>
 		cn7mqBdgLkEFbNmGxX2PiZIusy8=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_4.dat</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_4.dat</key>
 		<data>
 		PxrBP0je+TQrMIOsMEqSZv9qnVA=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_4.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_4.pvr</key>
 		<data>
 		QSeLNNBS61XE5VYfFTwp9QL8wfM=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_5.dat</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_5.dat</key>
 		<data>
 		5AoSGVAZnuvdoqT7mr/LjrWPacs=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_5.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_5.pvr</key>
 		<data>
 		0SQYMXw/9nblGN4kbFWcG5UEYn8=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_6.dat</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_6.dat</key>
 		<data>
 		ZKXXApQX/lZeHKrtMKrWEHJyyR4=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_6.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_6.pvr</key>
 		<data>
 		eCzaI/ISebHfw6tD5TTN0/JYO+I=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_7.dat</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_7.dat</key>
 		<data>
 		jArK3b8ELz6Mb33U0SLEiny7kdU=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_7.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_7.pvr</key>
 		<data>
 		F+ascLP8XIjZK62lAut9L8Gju/k=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_8.dat</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_8.dat</key>
 		<data>
 		AHojiIcnWjDFwp2KHNlmJfLD+As=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_8.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_8.pvr</key>
 		<data>
 		KzYtBQ2RLZSnMNBG+mXPnYienU4=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_CRANES.dat</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_9.dat</key>
+		<data>
+		uDmGGQkePlL0rtvOgoIOFo+lhws=
+		</data>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_9.pvr</key>
+		<data>
+		Vvp6zQwuY3f0OiQY7yD6Gds+0ds=
+		</data>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_CRANES.dat</key>
 		<data>
 		wSGMfk1nL5kr2L75eYpkyBeEhE0=
 		</data>
-		<key>data_iphone/images/INGAME_PARALLAX_CRANES.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_PARALLAX_CRANES.pvr</key>
 		<data>
 		NuYvW3G2aZSy/iKHU2FczOLD1Uw=
 		</data>
-		<key>data_iphone/images/INGAME_SKIES_1.dat</key>
+		<key>data_iphone/images/480x320/INGAME_SKIES_1.dat</key>
 		<data>
 		ptbM9RyAV4YVKy7YGkIErkmhzRc=
 		</data>
-		<key>data_iphone/images/INGAME_SKIES_1.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_SKIES_1.pvr</key>
 		<data>
 		y1ssBG6hoH0QMwlWK9gEnW4bdz8=
 		</data>
-		<key>data_iphone/images/INGAME_SKIES_2.dat</key>
+		<key>data_iphone/images/480x320/INGAME_SKIES_2.dat</key>
 		<data>
-		PLh9j3xu2+J1qnvUOwpsYmHCZ04=
+		I8V4P0e+Bz3E3r+EMdk0rWqk9es=
 		</data>
-		<key>data_iphone/images/INGAME_SKIES_2.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_SKIES_2.pvr</key>
 		<data>
-		lmShoPzXZGoK8umiZewLkC39wEk=
+		IdJRuNM7nmNDbnqacbe7cDES9PQ=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_1.dat</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_1.dat</key>
 		<data>
 		EkPIjufmuTeDEvTa/5Tet3VBgFM=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_1.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_1.pvr</key>
 		<data>
 		/zBhUWXeq/foUodF+eeax+sXaW4=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_2.dat</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_2.dat</key>
 		<data>
 		570rUiYoBMl6e/m76zYCBahOTjY=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_2.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_2.pvr</key>
 		<data>
 		AQTebTf2YDIOcXiANSNggrUWyBg=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_3.dat</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_3.dat</key>
 		<data>
 		8J9SyJHuO+LlGEjTURiHABf9lVg=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_3.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_3.pvr</key>
 		<data>
 		RNjDJUKui1PTpAqB9sF5bpz1e44=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_4.dat</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_4.dat</key>
 		<data>
 		Muf7hovliKNqSv9CEE1SzvNbTUw=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_4.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_4.pvr</key>
 		<data>
 		SrwLkh4udVR9qu+xMDb+CGLj+UY=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_5.dat</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_5.dat</key>
 		<data>
 		ytXEUvijJENrCKamkUaPHjT9xLE=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_5.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_5.pvr</key>
 		<data>
 		rULGIrfRAZX4pHUnCD4ioXs181M=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_6.dat</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_6.dat</key>
 		<data>
 		WAPfeix8c5zr9h1rMTib2cuHO+4=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_6.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_6.pvr</key>
 		<data>
 		tPcSMGP1EKfbs2nLyWdwLdpXDsc=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_7.dat</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_7.dat</key>
 		<data>
 		XhEWhp5fg/lq66pptRVcc6lt3c4=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_7.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_7.pvr</key>
 		<data>
 		Ok1z2GWNTNFsBcKXC8v44JZEDYk=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_8.dat</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_8.dat</key>
 		<data>
 		fd6k6oIlQddHBwdyJFdSpzu60Sw=
 		</data>
-		<key>data_iphone/images/INGAME_THEME_GROUND_8.pvr</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_8.pvr</key>
 		<data>
 		0EcZBSJphYxbuSHzD8ZfiJEFI+Y=
 		</data>
-		<key>data_iphone/images/LEVELSELECTION_SHEET_1.dat</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_9.dat</key>
 		<data>
-		zrneP/EeTfeGBLN/8yNgDu05dMc=
+		zhPij8pxGjIl0kdrP2qlJ1oQJio=
 		</data>
-		<key>data_iphone/images/LEVELSELECTION_SHEET_1.png</key>
+		<key>data_iphone/images/480x320/INGAME_THEME_GROUND_9.pvr</key>
 		<data>
-		Jv8GpOkH6tqhuLUoAr0JMUBpRds=
+		n0Lq7J22k2duBSdS3XfKtP7/xBo=
 		</data>
-		<key>data_iphone/images/MENU_BACKGROUNDS_1.dat</key>
+		<key>data_iphone/images/480x320/LEVELSELECTION_SHEET_1.dat</key>
 		<data>
-		Y6560hQx2g5cRjX1mPtzJr5N5ww=
+		znvRrnVItYFuU4v1cJVCUXsIIQ8=
 		</data>
-		<key>data_iphone/images/MENU_BACKGROUNDS_1.png</key>
+		<key>data_iphone/images/480x320/LEVELSELECTION_SHEET_1.png</key>
 		<data>
-		e/OfPQhZTyxH4C2rNodS9od9trs=
+		BRNTGR8Nbll9FbiikNRNRavXoiw=
 		</data>
-		<key>data_iphone/images/MENU_ELEMENTS_1.dat</key>
+		<key>data_iphone/images/480x320/MENU_ELEMENTS_1.dat</key>
 		<data>
-		622dfaZKvHcczqpDAglVlL/ixh0=
+		hJP10FGfmUriMGhv1L8580SGk8k=
 		</data>
-		<key>data_iphone/images/MENU_ELEMENTS_1.pvr</key>
+		<key>data_iphone/images/480x320/MENU_ELEMENTS_1.pvr</key>
 		<data>
-		nc7PFdjh/NyS66scTufgZk01rWw=
+		R9iix9KMTCPLeD/Nmw5VjJvwh/Q=
 		</data>
-		<key>data_iphone/images/MENU_ELEMENTS_2.dat</key>
+		<key>data_iphone/images/480x320/MENU_ELEMENTS_2.dat</key>
 		<data>
-		7mEfc2WjgH8gVN4fmhm96pcFc5Y=
+		k5R4mLgUY/ng9OTDsCWg/0uhPbc=
 		</data>
-		<key>data_iphone/images/MENU_ELEMENTS_2.pvr</key>
+		<key>data_iphone/images/480x320/MENU_ELEMENTS_2.pvr</key>
 		<data>
-		zDMPjL7G0ZrxOKhJBxVKm9Z40SU=
+		K1l0a6xKTVRsCVWDcLf6ncXS8Z8=
 		</data>
-		<key>data_iphone/images/MENU_ELEMENTS_3.dat</key>
+		<key>data_iphone/images/480x320/MENU_ELEMENTS_3.dat</key>
 		<data>
-		5unSJrB0S0hnbhXPwQJ5MggZjJ4=
+		vjCwcmCtyG8YbXYu6BodYADPvSA=
 		</data>
-		<key>data_iphone/images/MENU_ELEMENTS_3.png</key>
+		<key>data_iphone/images/480x320/MENU_ELEMENTS_3.png</key>
 		<data>
-		UVNh4LWqcz+0w9sg4jrE3I3WQ24=
+		bGWBDspl2XDIKFYOUBoCeYNjBr0=
 		</data>
-		<key>data_iphone/images/MENU_GAMECENTER_1.dat</key>
+		<key>data_iphone/images/480x320/MENU_GAMECENTER_1.dat</key>
 		<data>
-		9BBglXcsQ1/6CHTBztxSFzTh5D4=
+		IkV8468klnAgph1ngWTva5lRQjI=
 		</data>
-		<key>data_iphone/images/MENU_GAMECENTER_1.png</key>
+		<key>data_iphone/images/480x320/MENU_GAMECENTER_1.png</key>
 		<data>
-		Oc7zwRr27j+Pc4qMIBlUqfns5QY=
+		O81CBuy6m3zRSZaBwGDFr6pEa+c=
 		</data>
-		<key>data_iphone/images/POPUPS_SHEET_1.dat</key>
+		<key>data_iphone/images/480x320/MENU_MIGHTY_EAGLE_1.dat</key>
 		<data>
-		3adAAAiGmNa5sC+DLoQahteCS6o=
+		Y3Mic1JbI4aTa191E1B4axlXnWc=
 		</data>
-		<key>data_iphone/images/POPUPS_SHEET_1.png</key>
+		<key>data_iphone/images/480x320/MENU_MIGHTY_EAGLE_1.png</key>
 		<data>
-		23O8IOjylwRdoLia7qwzgX80Tpg=
+		YfHrGBRMSY0VD4v8HTve8EA4vQ8=
 		</data>
-		<key>data_iphone/images/SPLASHES_SHEET_1.dat</key>
+		<key>data_iphone/images/480x320/POPUPS_SHEET_1.dat</key>
+		<data>
+		lYlJM9qlvottEa407kGEzZCsWlM=
+		</data>
+		<key>data_iphone/images/480x320/POPUPS_SHEET_1.png</key>
+		<data>
+		8EGjIzz1hRlWpAttcYgybq2kQ/k=
+		</data>
+		<key>data_iphone/images/480x320/SPLASHES_SHEET_1.dat</key>
 		<data>
 		Rc1V9a+WqJ73x7puVX6583tzBQI=
 		</data>
-		<key>data_iphone/images/SPLASHES_SHEET_1.pvr</key>
+		<key>data_iphone/images/480x320/SPLASHES_SHEET_1.pvr</key>
 		<data>
 		12hhh/Whnv9DhPp/sps7CyUXEgA=
 		</data>
-		<key>data_iphone/images/TUTORIALS_SHEET_1.dat</key>
+		<key>data_iphone/images/480x320/TUTORIALS_SHEET_1.dat</key>
 		<data>
 		mrF+NswLJMaGR+E4U14niXHMkoM=
 		</data>
-		<key>data_iphone/images/TUTORIALS_SHEET_1.pvr</key>
+		<key>data_iphone/images/480x320/TUTORIALS_SHEET_1.pvr</key>
 		<data>
 		5plf0deJn7AITN6Yqy1EE0gy1JE=
 		</data>
-		<key>data_iphone/images/TUTORIALS_composprites.dat</key>
+		<key>data_iphone/images/480x320/TUTORIALS_composprites.dat</key>
 		<data>
 		au3OyYuz5BExN2aBLETRxNdqoIU=
 		</data>
@@ -1223,6 +1239,26 @@
 		<key>data_iphone/levels/goldeneggs1/LevelGE_11.lua</key>
 		<data>
 		7K4puoNmw2y2VJAnieVH2gvikVE=
+		</data>
+		<key>data_iphone/levels/goldeneggs1/LevelGE_12.lua</key>
+		<data>
+		pNq+jnUN/VeV3IFT96LrtEMlpAA=
+		</data>
+		<key>data_iphone/levels/goldeneggs1/LevelGE_13.lua</key>
+		<data>
+		X7WQjwV8VKiGp85OEJKa9vrut5U=
+		</data>
+		<key>data_iphone/levels/goldeneggs1/LevelGE_14.lua</key>
+		<data>
+		ATXKcf2MfbPwhnQ7cSWJ3cb0Lv4=
+		</data>
+		<key>data_iphone/levels/goldeneggs1/LevelGE_15.lua</key>
+		<data>
+		0QFNv/qT2wcfqwO/VlgCUlQ8cgE=
+		</data>
+		<key>data_iphone/levels/goldeneggs1/LevelGE_16.lua</key>
+		<data>
+		JEC0zh9AhU7I629lYJl7KSm0EAs=
 		</data>
 		<key>data_iphone/levels/goldeneggs1/LevelGE_2.lua</key>
 		<data>
@@ -1426,7 +1462,7 @@
 		</data>
 		<key>data_iphone/levels/pack11/LevelP4_469.lua</key>
 		<data>
-		MR89o8t32zNnVdKEfMkp3hcBEk8=
+		7vuzL/7fXThq9WnjctQkrF5RX4E=
 		</data>
 		<key>data_iphone/levels/pack11/LevelP4_470.lua</key>
 		<data>
@@ -1460,6 +1496,66 @@
 		<data>
 		rUcyyoEjqXYfl4COY3d8o6zRdhE=
 		</data>
+		<key>data_iphone/levels/pack12/LevelP5_339.lua</key>
+		<data>
+		LASX7hdn5qZZitSmUjhrC5xyHsg=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_341.lua</key>
+		<data>
+		wJy1Mj7JwNRz3NWUCFfg2I4wuDw=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_343.lua</key>
+		<data>
+		+EGhv+//QFNACC0wXl9uqmwcOTg=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_347.lua</key>
+		<data>
+		iGJFnuK/dyCWnd9RtaXSOOuRPgo=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_350.lua</key>
+		<data>
+		XSjwCBVfYg43fg2UFv0dDNuyZEk=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_352.lua</key>
+		<data>
+		qu0eBviM9MYfIjJ2hstT4Lk1uuU=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_356.lua</key>
+		<data>
+		kTpzWeD09cAK2SSQ9FU48l9cmlk=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_357.lua</key>
+		<data>
+		h02qeY5Ryv/69li84Bc3tjgWw4c=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_610.lua</key>
+		<data>
+		27O3VGLAa1sVBcK5rBi856D1eiw=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_615.lua</key>
+		<data>
+		96tg0uW4gqC8fXHOlF5AbITdqnc=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_616.lua</key>
+		<data>
+		qhtk3RTU9Od/RQeRd8VZXyYPaFY=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_620.lua</key>
+		<data>
+		S9xPzoqMbk7XPs8Y0cGfqKVZJgw=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_628.lua</key>
+		<data>
+		sz9Po7Uhnl4dyxGECcZMFXnEjwU=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_634.lua</key>
+		<data>
+		gIDFFYFRrufXho3vNR3YjFsk7/I=
+		</data>
+		<key>data_iphone/levels/pack12/LevelP5_640.lua</key>
+		<data>
+		aAS4C9YEEIga2QQxtOXMHeWZQZ4=
+		</data>
 		<key>data_iphone/levels/pack2/Level20.lua</key>
 		<data>
 		2/mxWYrPidi/syLVjyp/FxD89Tk=
@@ -1490,7 +1586,7 @@
 		</data>
 		<key>data_iphone/levels/pack2/Level34.lua</key>
 		<data>
-		UjEzYr9G3PGLJJmCiEzwUgR23n8=
+		zCWAxaLFK9dKfcy4TAGGvFAncYg=
 		</data>
 		<key>data_iphone/levels/pack2/Level35.lua</key>
 		<data>
@@ -2038,7 +2134,7 @@
 		</data>
 		<key>data_iphone/localization/TEXTS_BASIC.dat</key>
 		<data>
-		/s/07KY7yqMMAYNgWPeK9uKWm9c=
+		+Cun+zBFR0IQHSl22Q3ZLMhnsxA=
 		</data>
 		<key>data_iphone/scripts/animations.lua</key>
 		<data>
@@ -2046,31 +2142,31 @@
 		</data>
 		<key>data_iphone/scripts/blocks.lua</key>
 		<data>
-		WSG6L/F0DAUErjMxMj1bqIohVH8=
+		hXiyWwIS1czeHun70vXaS1MaPsI=
 		</data>
 		<key>data_iphone/scripts/gamelogic.lua</key>
 		<data>
-		SUAGuMT/ZkUN/ckhIhTvclFZ1LY=
+		DSXSOifPfQcWoX+AKwS01DteaBg=
 		</data>
 		<key>data_iphone/scripts/iphone/achievements.lua</key>
 		<data>
-		dsOZc0cCz/CRHQWP4ccH0urJdqk=
+		hpw60/yFGPJfL9OuLYnquE9Jv+4=
 		</data>
 		<key>data_iphone/scripts/iphone/leaderboards.lua</key>
 		<data>
-		3gwVgOJFnUYJ6lrPvPrk9lZhJuo=
+		QD/DY53YXseb/jf7jbv75w/qcC8=
 		</data>
 		<key>data_iphone/scripts/loadlist.lua</key>
 		<data>
-		TK2SODhS3ZEVuecwj+5muFkRtqw=
+		iTPp/h5bd3Ftjk1qnmgIi6F8uX0=
 		</data>
 		<key>data_iphone/scripts/particles.lua</key>
 		<data>
-		O5MF6ZJdwda47K04IQv9u+a07WE=
+		tsxSHfzTDsfRM74xwKJcyADNOYA=
 		</data>
 		<key>data_iphone/scripts/starLimits.lua</key>
 		<data>
-		QsRrvb4duVrZOdqsi9fBDmUNjcw=
+		TOrdQvaWSpkdlg140/UvlohwBHI=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<data>
